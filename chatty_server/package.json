@@ -1,0 +1,18 @@
+{
+  "name": "chatty_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node-uuid": "^1.4.8",
+    "ws": "^4.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start",
+    "start": "node server.js"
+  },
+  "author": "jesseroyc",
+  "license": "ISC"
+}
